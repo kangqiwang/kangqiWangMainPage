@@ -1,7 +1,6 @@
 ---
 role: Software Engineer
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include business process mining
 interests:
   - Artificial Intelligence
   - Computational Linguistics
