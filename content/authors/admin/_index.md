@@ -25,8 +25,8 @@ social:
     display:
       header: false
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sheffield Hallam University
+    url: https://www.shu.ac.uk/
 education:
   courses:
     - course: PhD in Artificial Intelligence
