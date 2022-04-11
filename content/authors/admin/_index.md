@@ -1,5 +1,5 @@
 ---
-title: Kangqi Wang
+title: Kang Wang
 role: Software Engineer
 avatar_filename: null
 bio: My research interests include business process mining
