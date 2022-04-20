@@ -30,16 +30,16 @@ organizations:
     url: https://www.shu.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Mphil in Process Mining
+      institution: Sheffield Hallam University
+      year: 2021
+    - course: Msc in Advanced Computer Science
+      institution: Cardiff University
+      year: 2017
+    - course: BEng in Software Engineering
+      institution: Xi'An University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: "kang7.wang@gmail.com"
 superuser: true
 highlight_name: true
 ---
