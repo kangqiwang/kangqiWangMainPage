@@ -11,6 +11,10 @@ image:
 ---
 the paper we love
 
-# FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
+#### FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents
 
 in this paper they present a two-stage neural approach named freeDOM
+
+#### WebFormer: The Web-page Transformer for Structure
+Information Extraction
+
