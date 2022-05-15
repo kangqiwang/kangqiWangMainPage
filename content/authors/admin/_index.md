@@ -1,7 +1,7 @@
 ---
 title: Kang Wang
 role: Research Software Engineer
-avatar_filename: null
+avatar_filename: avatar.jpg
 bio: My research interests include business process mining
 interests:
   - process mining
