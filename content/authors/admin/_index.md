@@ -1,6 +1,6 @@
 ---
 title: Kang Wang
-role: Software Engineer
+role: Research Software Engineer
 avatar_filename: null
 bio: My research interests include business process mining
 interests:
@@ -39,12 +39,10 @@ education:
     - course: BEng in Software Engineering
       institution: Xi'An University
       year: 2012
-email: "kang7.wang@gmail.com"
+email: kang7.wang@gmail.com
 superuser: true
 highlight_name: true
 ---
-Kangqi Wang is result-driven and motivated software engineer with industrial experience in ERP system, working on business process mining in ERP system
-
-
+Kang Wang is result-driven and motivated software engineer with industrial experience in ERP system, working on business process mining in ERP system
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
