@@ -43,6 +43,10 @@ email: kang7.wang@gmail.com
 superuser: true
 highlight_name: true
 ---
-Kang Wang is result-driven and motivated software engineer with industrial experience in ERP system, working on business process mining in ERP system
+I am a result-driven and motivated software engineer, researcher with industrial experience in ERP system, working on business process mining in ERP system.
+
+I am currently Software Engineer at HCS, defining the future of data-driven software.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
