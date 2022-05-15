@@ -4,9 +4,9 @@ role: Research Software Engineer
 avatar_filename: null
 bio: My research interests include business process mining
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - process mining
+  - software development
+  - ERP
 social:
   - icon: envelope
     icon_pack: fas
